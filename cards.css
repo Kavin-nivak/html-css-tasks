@@ -30,41 +30,37 @@ img{
 }
 .cards1{
     margin: 20px;
-    padding: 20px;
-    box-shadow: 0 0 5px 10px  rgb(7, 7, 7);
+    box-shadow: 5px 10px  rgb(7, 7, 7);
 }
 .cards2{
     margin: 20px;
-    padding: 20px;
-    box-shadow: 0 0 5px 10px  rgb(163, 182, 148);
+    box-shadow: -10px -5px rgb(13, 14, 13);
 }
 .cards3{
     margin: 20px;
-    padding: 20px;
-    box-shadow: 0 0 5px 10px  rgb(143, 90, 90);
+
+    box-shadow: 5px 5px 4px   rgb(143, 90, 90);
 }
 .cards4{
     margin: 20px;
-    padding: 20px;
-    box-shadow: 0 0 5px 10px  rgb(143, 145, 142);
+    box-shadow: 5px 5px 5px 10px  rgb(143, 145, 142);
 }
 .cards5{
     margin: 20px;
-    padding: 20px;
-    box-shadow: 0 0 5px 10px  rgb(9, 240, 59);
+    
+    box-shadow: 0 0  20px  rgb(9, 240, 59);
 }
 .cards6{
     margin: 20px;
-    padding: 20px;
-    box-shadow: 0 0 5px 10px  rgb(238, 215, 6);
+    
+    box-shadow: inset 0 0  20px  rgb(238, 215, 6);
 }
 .cards7{
     margin: 20px;
-    padding: 20px;
+
     box-shadow: 0 0 5px 10px  rgb(12, 202, 113);
 }
 .cards8{
     margin: 20px;
-    padding: 20px;
-    box-shadow: 0 0 5px 10px  rgb(201, 12, 12);
+    box-shadow:0 0 20px  rgb(201, 12, 12);
 }
